@@ -1,0 +1,5 @@
+KEY,中文,English,日文
+volume,音量,volume,japVolume
+name,康康,Kangkang,baba
+fire,开火,fire,japFire
+changeName,改名,ChangeName,japChange
